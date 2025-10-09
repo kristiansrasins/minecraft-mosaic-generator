@@ -17,8 +17,8 @@ pip install -r requirements.txt
 
 ## Usage
 1. Add picture to examples folder
-2. Change default cords at end of mosaic.py file
-3. Run mosaic.py with picture path and needed widht and height parameters 
+2. Change default x/y/z cords at end of mosaic.py file
+3. Run mosaic.py with picture path and needed width and height parameters 
 ```bash
 python src/mosaic.py data/examples/picutre.png data/examples/mosaic.png --commands data/examples/mosaic.mcfunction --width 200 --height 200
 ```
