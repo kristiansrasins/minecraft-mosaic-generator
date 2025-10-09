@@ -1,9 +1,4 @@
 {
-    "acacia_leaves": [
-        149,
-        148,
-        148
-    ],
     "acacia_log": [
         103,
         96,
@@ -24,16 +19,6 @@
         87,
         51
     ],
-    "activator_rail": [
-        115,
-        87,
-        74
-    ],
-    "activator_rail_on": [
-        143,
-        87,
-        74
-    ],
     "amethyst_block": [
         133,
         97,
@@ -53,11 +38,6 @@
         68,
         68,
         68
-    ],
-    "azalea_leaves": [
-        90,
-        114,
-        44
     ],
     "bamboo_block": [
         127,
@@ -114,11 +94,6 @@
         85,
         85
     ],
-    "bee_nest_front": [
-        183,
-        141,
-        76
-    ],
     "bee_nest_top": [
         202,
         160,
@@ -163,11 +138,6 @@
         25,
         25,
         29
-    ],
-    "black_stained_glass": [
-        25,
-        25,
-        25
     ],
     "black_terracotta": [
         37,
@@ -264,25 +234,10 @@
         71,
         40
     ],
-    "bubble_coral_block": [
-        165,
-        26,
-        162
-    ],
     "budding_amethyst": [
         132,
         96,
         186
-    ],
-    "cactus_flower": [
-        209,
-        120,
-        135
-    ],
-    "cake_top": [
-        248,
-        222,
-        214
     ],
     "calcite": [
         223,
@@ -414,16 +369,6 @@
         127,
         127
     ],
-    "comparator": [
-        166,
-        161,
-        159
-    ],
-    "comparator_on": [
-        175,
-        160,
-        157
-    ],
     "copper_block": [
         192,
         107,
@@ -554,11 +499,6 @@
         137,
         145
     ],
-    "dark_oak_leaves": [
-        150,
-        150,
-        150
-    ],
     "dark_oak_log": [
         60,
         46,
@@ -583,31 +523,6 @@
         51,
         91,
         75
-    ],
-    "dead_brain_coral_block": [
-        124,
-        117,
-        114
-    ],
-    "dead_bubble_coral_block": [
-        131,
-        123,
-        119
-    ],
-    "dead_fire_coral_block": [
-        131,
-        123,
-        119
-    ],
-    "dead_horn_coral_block": [
-        133,
-        126,
-        122
-    ],
-    "dead_tube_coral_block": [
-        130,
-        123,
-        119
     ],
     "deepslate": [
         80,
@@ -729,25 +644,10 @@
         224,
         162
     ],
-    "fire_coral_block": [
-        163,
-        35,
-        46
-    ],
     "fletching_table_top": [
         197,
         180,
         133
-    ],
-    "flowering_azalea_leaves": [
-        99,
-        111,
-        60
-    ],
-    "flowering_azalea_top": [
-        112,
-        121,
-        64
     ],
     "furnace_top": [
         110,
@@ -764,11 +664,6 @@
         131,
         84
     ],
-    "glow_lichen": [
-        112,
-        130,
-        121
-    ],
     "gold_block": [
         246,
         208,
@@ -783,11 +678,6 @@
         149,
         103,
         85
-    ],
-    "grass_block_top": [
-        147,
-        147,
-        147
     ],
     "gravel": [
         131,
@@ -874,11 +764,7 @@
         74,
         75
     ],
-    "horn_coral_block": [
-        216,
-        199,
-        66
-    ],
+
     "iron_block": [
         220,
         220,
@@ -898,11 +784,6 @@
         93,
         64,
         47
-    ],
-    "jungle_leaves": [
-        156,
-        154,
-        143
     ],
     "jungle_log": [
         85,
@@ -928,11 +809,6 @@
         107,
         117,
         141
-    ],
-    "leaf_litter": [
-        170,
-        170,
-        170
     ],
     "lectern_top": [
         173,
@@ -1069,11 +945,6 @@
         68,
         179
     ],
-    "mangrove_leaves": [
-        129,
-        128,
-        128
-    ],
     "mangrove_log": [
         83,
         66,
@@ -1138,11 +1009,6 @@
         203,
         196,
         185
-    ],
-    "mycelium_side": [
-        113,
-        87,
-        71
     ],
     "mycelium_top": [
         111,
@@ -1270,11 +1136,6 @@
         79
     ],
     "pale_moss_block": [
-        106,
-        112,
-        104
-    ],
-    "pale_moss_carpet": [
         106,
         112,
         104
@@ -1773,11 +1634,6 @@
         142,
         62,
         53
-    ],
-    "tube_coral_block": [
-        49,
-        87,
-        206
     ],
     "tuff": [
         108,
